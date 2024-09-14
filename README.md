@@ -3,7 +3,7 @@
 
 <h2>GitHub, o que é?</h2>
 
-<ul>GitHub é uma plataformade hospedagem de código (código-fonte) que usa o Git para controle de versão. O GitHub permite que os desenvolvedores dos projetos possam colaborar entre si, armazenar dados, compartilhar e gerenciar os códigos de uma maneira mais rápida e eficaz.</ul>
+<ul>GitHub é uma plataformade hospedagem de código (código-fonte) que usa o Git para controle de versão. Ele permite que os desenvolvedores dos projetos possam colaborar entre si, armazenar dados, compartilhar e gerenciar os códigos de uma maneira mais rápida e eficaz.</ul>
 <li>O GitHub permite uma colaboração facilitada entre os squads/times levando em consideração que é possível trabalhar simultaneamente em um projeto e realizar o controle das versões. </li>
 <li>Com o GitHub nós conseguimos criar um repositório open source e colocar os projetos de código aberto dentro da plataforma.</li>
 
